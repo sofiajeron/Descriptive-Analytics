@@ -4,6 +4,6 @@ This folder includes the R Markdown file and poster that my group members did fo
 
 The data used for this project, 'Absenteeism at work' was taken from the UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work).
 
-RMarkdown file includes the entire process of data preprocessing (cleaning the data, checking inconsistency, outliers) and analysis (PCA, MCA and clustering) including comments and R code.
+Html file includes the entire process of data preprocessing (cleaning the data, checking inconsistency, outliers) and analysis (PCA, MCA and clustering) including comments and R code.
 
 Me and my group members present our work in a poster 'Poster_Descriptive.pdf', which was done in Adobe Illustrator, the plots were extracted from R.
