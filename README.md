@@ -6,4 +6,4 @@ The data used for this project, 'Absenteeism at work' was taken from the UCI Mac
 
 Html file includes the entire process of data preprocessing (cleaning the data, checking inconsistency, outliers) and analysis (PCA, MCA and clustering) including comments and R code.
 
-Me and my group members present our work in a poster 'Poster_Descriptive.pdf', which was done in Adobe Illustrator, the plots were extracted from R.
+Me and my group members present our work in a poster 'Poster_Descriptive.pdf', which was done in Adobe Illustrator. All the plots were extracted from R.
